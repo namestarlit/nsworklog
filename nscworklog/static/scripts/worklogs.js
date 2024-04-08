@@ -50,14 +50,14 @@ $(document).ready(function () {
 
   // Handle input change event for displaying/hiding the form section
   $('.content-categories input[name="nav"]').change(function () {
-    const filterNav = $(this).attr('id');
-    if (filterNav === 'nav-completed') {
+    const selectedNav = $(this).attr('id');
+    if (selectedNav === 'completed') {
       $('.add-worklog').hide();
     } else {
       $('.add-worklog').show();
     }
     // Fetch and update worklogs based on the selected input tag
-    fetchAndUpdateWorklogs(filterNav);
+    fetchAndUpdateWorklogs(selectedNav);
   });
 });
 
