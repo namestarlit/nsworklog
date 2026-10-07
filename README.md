@@ -11,7 +11,7 @@ The need I chose to pursue was explaining engineering problems, decisions, and l
 The notebook serves my personal writing. It does not replace WorkLog's task management features or migrate accounts and work records. The original source and history remain here for reference.
 
 - [Read why WorkLog became a notebook](https://namestarlit.com/notebook/why-worklog-became-a-notebook/)
-- [View the retired project case study](https://namestarlit.com/projects/worklog.html)
+- [View the retired project case study](https://namestarlit.com/w/worklog/)
 
 ## Original project overview
 
